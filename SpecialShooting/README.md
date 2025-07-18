@@ -17,4 +17,5 @@
 ## SSWeaponRifle
 > SSWeaponBase 를 상속 받은 자동소총 클래스
 
-
+## 작동영상
+### https://choryang-d.tistory.com/23
